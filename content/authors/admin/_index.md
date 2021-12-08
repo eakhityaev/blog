@@ -64,6 +64,6 @@ email: ""
 highlight_name: true
 ---
 
-Khityaev Evgeny is a first-year student of the Master's program 'Applied Mathemtics and Informatics'. His research interests include: mathematical statistics, probability theory and data analysis.
+Khityaev Evgeny is a first-year student of the Master's program 'Applied Mathematics and Informatics'. His research interests include: mathematical statistics, probability theory and data analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
