@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: eakhityaev # Website name
-baseurl: 'https://eakhityaev.github.io/' # Website URL
+baseurl: https://eakhityaev.github.io/ # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
