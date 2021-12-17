@@ -31,14 +31,14 @@ item:
   organization_url: https://events.rudn.ru/event/107/
   title: Attestation of participation in ITTMM-2021
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: https://coursera.org/share/e883a343903402cfd34558de85d01a53
+  date_end: "2020-07-30"
+  date_start: "2020-06-29"
+  description: "Fundamentals of Photography"
+  organization: NSU
+  organization_url: https://www.nsu.ru
+  title: Fundamentals of Photography
+  url: https://coursera.org/share/e883a343903402cfd34558de85d01a53
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"

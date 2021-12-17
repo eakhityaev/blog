@@ -18,9 +18,11 @@ bio: My research interests include mathematical statistics, probability theory a
 
 # Interests to show in About widget
 interests:
+- Statistics
+- Data analysis
+- Probability theory
 - Photography
 - Photoshop/Lightroom
-- Statistics
 
 # Education to show in About widget
 education:
@@ -62,5 +64,3 @@ highlight_name: true
 ---
 
 Khityaev Evgeny is a first-year student of the Master's program 'Applied Mathematics and Informatics'. His research interests include: mathematical statistics, probability theory and data analysis.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
