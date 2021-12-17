@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://events.rudn.ru/event/107/attachments/204/854/ittmm-2021%2Bcover.pdf
   date_end: "2021_04_23"
-  date_start: "2021-04_19"
+  date_start: "2021_04_19"
   description: "Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems 2021"
   organization: RUDN
   organization_url: https://events.rudn.ru/event/107/
