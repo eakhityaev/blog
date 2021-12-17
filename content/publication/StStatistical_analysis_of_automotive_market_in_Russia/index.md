@@ -46,7 +46,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://events.rudn.ru/event/107/attachments/204/854/ittmm-2021%2Bcover.pdf
 url_code:
 url_dataset:
 url_poster:
