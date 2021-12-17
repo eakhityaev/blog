@@ -39,14 +39,14 @@ item:
   organization_url: https://www.nsu.ru
   title: Fundamentals of Photography
   url: https://coursera.org/share/e883a343903402cfd34558de85d01a53
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: https://www.coursera.org/share/fd4d31038c241e1e27c7eaa0919d9bed
+  date_end: "2020-03-09"
+  date_start: "2020-05-13"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  organization: MIPT
+  organization_url: https://www.mipt.ru
+  title: 'Mathematics and Python for data analysis'
+  url: https://www.coursera.org/share/fd4d31038c241e1e27c7eaa0919d9bed
 
 design:
   columns: '2' 
