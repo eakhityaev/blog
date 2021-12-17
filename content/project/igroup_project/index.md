@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Individual project"
-summary: "My personal website"
-authors: [E.A.Khityaev]
+title: "Group project"
+summary: "Our solution for Project 6 (SciProg)"
+authors: [E.Khityaev, G.Grechkin, I.Vuraki, A.Safargalieva]
 tags: []
 categories: []
-date: 2021-12-17T15:34:56+03:00
+date: 2021-12-17T15:46:35+03:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://eakhityaev.github.io"
+external_link: "https://1drv.ms/b/s!AslY2bh-YyTSqQC0B9iXimxWJjiu"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
