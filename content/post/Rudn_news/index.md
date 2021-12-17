@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Rudn_news"
+title: "Новости РУДН: Студенты получат выплаты"
 subtitle: "25 студентов РУДН получат единовременную стипендию в размере 55 000 рублей"
 summary: "По итогам конкурсного отбора кандидатов, который проходил в период с 19 ноября по 15 декабря 2021 года были определены 25 победителей, которые получат единовременную выплату в размере 55 000 рублей на человека."
 authors: []
 tags: []
 categories: []
-date: 2021-12-17T14:23:31+03:00
-lastmod: 2021-12-17T14:23:31+03:00
+date: 2021-12-17T14:44:10+03:00
+lastmod: 2021-12-17T14:44:10+03:00
 featured: false
 draft: false
 
@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "rudn"
+  caption: ""
   focal_point: ""
   preview_only: false
 
