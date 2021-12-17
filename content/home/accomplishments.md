@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://events.rudn.ru/event/107/attachments/204/854/ittmm-2021%2Bcover.pdf
-  date_end: "2021_04-23"
-  date_start: "2021-04-19"
+  date_end: "2021_04_23"
+  date_start: "2021-04_19"
   description: "Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems 2021"
   organization: RUDN
   organization_url: https://events.rudn.ru/event/107/
