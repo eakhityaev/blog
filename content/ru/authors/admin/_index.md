@@ -1,34 +1,34 @@
 ---
 # Display name
-title: Evgeny Khityaev
+title: Евгений Хитяев
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Student of PFUR
+role: Студент РУДН
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: People's Friendship University of Russia
+- name: Российский Университет Дружбы Народов
   url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mathematical statistics, probability theory and data analysis.
+bio: Мои научные интересы включают математическую статистику, теорию вероятностей и анализ данных.
 
 # Interests to show in About widget
-interests:
-- Statistics
-- Data analysis
-- Probability theory
-- Photography
+Интересы:
+- Математическая статистика
+- Анализ данных
+- Теория вероятностей
+- Фотография
 - Photoshop/Lightroom
 
 # Education to show in About widget
-education:
+Образование:
   courses:
-  - course: BSc in Maths
-    institution: People's friendship University of Russia
+  - course: Бакалавр в области прикладной математики и информатики
+    institution: Российский Университет Дружбы Народов
     year: 2021
 
 # Social/Academic Networking
@@ -63,4 +63,4 @@ email: ""
 highlight_name: true
 ---
 
-Khityaev Evgeny is a first-year student of the Master's program 'Applied Mathematics and Informatics'. His research interests include: mathematical statistics, probability theory and data analysis.
+Хитяев Евгений - студент первого курса магистратуры программы «Прикладная математика и информатика». Сфера его научных интересов: математическая статистика, теория вероятностей и анализ данных. 

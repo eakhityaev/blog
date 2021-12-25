@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Достижения'
 subtitle:
 
 # Date format
@@ -29,15 +29,15 @@ item:
   description: "Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems 2021"
   organization: RUDN
   organization_url: https://events.rudn.ru/event/107/
-  title: Attestation of participation in ITTMM-2021
+  title: Сертификат участника ITTMM-2021
   url: ""
 - certificate_url: https://coursera.org/share/e883a343903402cfd34558de85d01a53
   date_end: "2020-07-30"
   date_start: "2020-06-29"
-  description: "Fundamentals of Photography"
-  organization: NSU
+  description: "Основы Фотографии"
+  organization: НГУ
   organization_url: https://www.nsu.ru
-  title: Fundamentals of Photography
+  title: Основы Фотографии
   url: https://coursera.org/share/e883a343903402cfd34558de85d01a53
 - certificate_url: https://www.coursera.org/share/fd4d31038c241e1e27c7eaa0919d9bed
   date_end: "2020-03-09"
@@ -45,7 +45,7 @@ item:
   description: ""
   organization: MIPT
   organization_url: https://www.mipt.ru
-  title: 'Mathematics and Python for data analysis'
+  title: 'Математика и Python для анализа данных'
   url: https://www.coursera.org/share/fd4d31038c241e1e27c7eaa0919d9bed
 
 design:

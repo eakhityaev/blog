@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Навыки
 subtitle:
 
 # Showcase personal skills or business features.
@@ -19,15 +19,15 @@ feature:
 - description: 50%
   icon: infinity
   icon_pack: fab
-  name: Probability theory
+  name: Теория вероятностей
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Математическая статистика
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Фотография
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

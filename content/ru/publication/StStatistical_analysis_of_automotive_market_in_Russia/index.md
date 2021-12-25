@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Statistical analysis of automotive market in Russia"
+title: "Статистический анализ автомобильного рынка в России"
 authors: [E.A.Khityaev]
 date: 2021-12-17T18:43:18+03:00
 doi: ""
@@ -19,17 +19,19 @@ publication_types: ["1"]
 publication: ""
 publication_short: ""
 
-abstract: "On the basis of data collected from the largest Internet portal in Russia with advertisements
-for the sale of used passenger cars ńauto.ruż, this paper investigated the dependence of the
-cost of a vehicle in the secondary market on factors such as brand, model, year of manufacture,
-mileage, engine power, the condition of the body and the car as a whole, equipment and
-other indicators of the condition and quality of the vehicle. The study used the methods of
-multivariate statistical analysis using the software package SPSS for statistical data processing.
-As a result, it was possible to identify the most signiőcant factors affecting the cost of a
-used car, to establish the nature and strength of the relationship between the dependent
-variable and the parameters under study, and also, using the example of speciőc car models,
-to construct regression equations that can be used to estimate the value of a vehicle before
-buying or selling it on the secondary market."
+abstract: "На основе данных, собранных с крупнейшего в России интернет-портала с объяв-
+лениями о продаже подержанных легковых автомобилей «auto.ru», в данной работе
+исследовалась зависимость стоимости транспортного средства на вторичном рынке от
+таких факторов, как марка, модель, год выпуска, пробег, мощность двигателя, состояние
+кузова и автомобиля в целом, комплектация и других показателей состояния и качества
+транспортного средства. В исследовании использовались методы многомерного статисти-
+ческого анализа с применением компьютерной программы для статистической обработки
+данных SPSS. В результате удалось выявить наиболее значимые факторы, оказываю-
+щие влияние на стоимость подержанного автомобиля, установить характер и силу связи
+между зависимой переменной и исследуемыми параметрами, а также на примере кон-
+кретных моделей автомобилей построить регрессионные уравнения, которые могут быть
+использованы для оценки стоимости транспортного средства перед осуществлением его
+покупки или продажи на вторичном рынке."
 
 # Summary. An optional shortened abstract.
 summary: ""

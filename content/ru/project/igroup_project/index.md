@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Group project"
-summary: "Our solution for Project 6 (SciProg)"
+title: "Групповой проект"
+summary: "Наше решение проекта №6 (Научное Программирование)"
 authors: [E.Khityaev, G.Grechkin, I.Vuraki, A.Safargalieva]
 tags: []
 categories: []

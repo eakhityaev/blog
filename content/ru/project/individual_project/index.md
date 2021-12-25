@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Individual project"
-summary: "My personal website"
+title: "Индивидуальный проект"
+summary: "Мой личный сайт"
 authors: [E.Khityaev]
 tags: []
 categories: []
