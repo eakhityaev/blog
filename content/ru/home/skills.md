@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 50%
   icon: infinity
-  icon_pack: fab
+  icon_pack: fas
   name: Теория вероятностей
 - description: 100%
   icon: chart-line

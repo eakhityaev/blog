@@ -27,7 +27,7 @@ item:
   date_end: "2021-04-23"
   date_start: "2021-04-19"
   description: "Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems 2021"
-  organization: RUDN
+  organization: РУДН
   organization_url: https://events.rudn.ru/event/107/
   title: Сертификат участника ITTMM-2021
   url: ""
@@ -43,7 +43,7 @@ item:
   date_end: "2020-03-09"
   date_start: "2020-05-13"
   description: ""
-  organization: MIPT
+  organization: МФТИ
   organization_url: https://www.mipt.ru
   title: 'Математика и Python для анализа данных'
   url: https://www.coursera.org/share/fd4d31038c241e1e27c7eaa0919d9bed
