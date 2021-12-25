@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "RUDN news: Students will receive payments"
-subtitle: "25 RUDN University students will receive a one-time scholarship of 55,000 rubles"
-summary: "Based on the results of the competitive selection of candidates, which took place from November 19 to December 15, 2021, 25 winners were determined, who will receive a one-time payment of 55,000 rubles per person ."
+title: "Новости РУДН: Студенты получат выплаты"
+subtitle: "25 студентов РУДН получат единовременную стипендию в размере 55 000 рублей"
+summary: "По итогам конкурсного отбора кандидатов, который проходил в период с 19 ноября по 15 декабря 2021 года были определены 25 победителей, которые получат единовременную выплату в размере 55 000 рублей на человека."
 authors: []
 tags: []
 categories: []
