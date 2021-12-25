@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 50%
   icon: infinity
-  icon_pack: fab
+  icon_pack: fas
   name: Probability theory
 - description: 100%
   icon: chart-line
