@@ -26,7 +26,7 @@ item:
 - certificate_url: https://events.rudn.ru/event/107/attachments/204/854/ittmm-2021%2Bcover.pdf
   date_end: "2021-04-23"
   date_start: "2021-04-19"
-  description: "Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems 2021"
+  description: "Информационно-телекоммуникационные технологии и математическое моделирование высокотехнологичных систем (ITTMM-2021)"
   organization: РУДН
   organization_url: https://events.rudn.ru/event/107/
   title: Сертификат участника ITTMM-2021
