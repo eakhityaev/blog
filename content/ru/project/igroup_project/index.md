@@ -3,7 +3,7 @@
 
 title: "Групповой проект"
 summary: "Наше решение проекта №6 (Научное Программирование)"
-authors: [E.Khityaev, G.Grechkin, I.Vuraki, A.Safargalieva]
+authors: [Е. Хитяев, Г. Гречкин, И. Вураки, А. Сафаргалиева]
 tags: []
 categories: []
 date: 2021-12-17T15:46:35+03:00

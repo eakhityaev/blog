@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Статистический анализ автомобильного рынка в России"
-authors: [E.A.Khityaev]
+authors: [Е.А. Хитяев]
 date: 2021-12-17T18:43:18+03:00
 doi: ""
 

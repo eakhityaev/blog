@@ -3,7 +3,7 @@
 
 title: "Индивидуальный проект"
 summary: "Мой личный сайт"
-authors: [E.Khityaev]
+authors: [Е.А. Хитяев]
 tags: []
 categories: []
 date: 2021-12-17T15:34:56+03:00
