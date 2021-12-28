@@ -39,9 +39,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:1032212340@pfur.ru"
-- icon: telegram
-  icon_pack: fab
-  link: https://t.me/khityaev
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-2375-1873
