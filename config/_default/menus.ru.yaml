@@ -14,7 +14,7 @@ main:
     url: '#projects'
     weight: 30
   - name: Публикации
-    url: '#pages'
+    url: '#publications'
     weight: 40
   - name: Контакты
     url: '#contact'
